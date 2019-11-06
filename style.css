@@ -36,7 +36,7 @@ img {
 	max-width: 300px;
 	max-height: max-content;
 	width: 300px;
-	height: auto;
+	height: max-content;
 	
 	}
 table {
