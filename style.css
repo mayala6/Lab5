@@ -6,7 +6,7 @@ body {
 	font-style: normal;
 	color: #95a5a6;
 	background-color: #34495e;
-	text-align: center-left;
+	text-align: left;
 }
 
 h1 {
@@ -27,7 +27,7 @@ h2{
 	}
 p{
 	font-family: 'Open Sans', sans-serif;
-	font-weight: 450;
+	font-weight: 400;
 	font-style: normal;
 	color: navy;
 	text-align: left;
